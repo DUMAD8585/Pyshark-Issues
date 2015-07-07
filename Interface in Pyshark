@@ -1,0 +1,12 @@
+Hi,
+
+I need to capture live packets from more than one interface using Live Capture module in Pyshark.
+cap=pyshark.LiveCpature(interface='eth0')
+
+How can I add one more interface using Live Capture. 
+Ex: I need to capture packets from interfaces eth0 and eth1.
+
+Thanks in advance.
+
+Regards,
+Dumad.
